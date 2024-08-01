@@ -32,10 +32,10 @@
 - Machine learning models
 - Data Visualization
 
-⚡ Fun fact:
+**⚡ Fun fact**
+
 As a data nerd, I find joy in the game of data storytelling and love every moment of it!
 
-    </td>
   </tr>
 </table>
 

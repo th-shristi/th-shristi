@@ -1,8 +1,43 @@
-# 👩‍💻 Hi there! I'm Shristi Singh Thakur, and here's a glimpse of my work. 
+<table>
+  <tr>
+    <td width="50%">
+
+# 👩‍💻 Hi there! I'm Shristi Singh Thakur
+
 **📊 Welcome to my world of data and technology!**
 
-🚀 I'm currently working on:<br><br>Building and refining machine learning models<br>Developing data analysis projects<br>Exploring deep learning techniques and applications<br><br>🤝 I'm looking to collaborate on:<br><br>Innovative machine learning projects<br>Data analysis initiatives<br>Open-source contributions in data science and AI<br><br>👐 I'm looking for help with:<br><br>Advanced machine learning and deep learning techniques<br>Optimizing code for performance and scalability<br><br>🌱 I'm currently learning:<br><br>Advanced data visualization techniques<br>Cloud computing with Amazon Web Services<br><br>💬 Ask me about:<br><br>Data analysis<br>Machine learning models<br>Data Visualization<br><br>⚡ Fun fact:<br><br>As a data nerd, I find joy in the game of data storytelling and love every moment of it!
+🚀 I'm currently working on:
+- Building and refining machine learning models
+- Developing data analysis projects
+- Exploring deep learning techniques and applications
 
+🤝 I'm looking to collaborate on:
+- Innovative machine learning projects
+- Data analysis initiatives
+- Open-source contributions in data science and AI
+
+    </td>
+    <td width="50%">
+
+👐 I'm looking for help with:
+- Advanced machine learning and deep learning techniques
+- Optimizing code for performance and scalability
+
+🌱 I'm currently learning:
+- Advanced data visualization techniques
+- Cloud computing with Amazon Web Services
+
+💬 Ask me about:
+- Data analysis
+- Machine learning models
+- Data Visualization
+
+⚡ Fun fact:
+As a data nerd, I find joy in the game of data storytelling and love every moment of it!
+
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shristi-singh-thakur-aa8149239) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/___shristisingh) 

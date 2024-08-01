@@ -50,16 +50,31 @@ As a data nerd, I find joy in the game of data storytelling and love every momen
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=purple)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=yellow)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FF6F00?style=flat&logo=tensorflow&logoColor=green)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-FF6F00?style=flat&logo=tensorflow&logoColor=grey)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-FF6F00?style=flat&logo=tensorflow&logoColor=red)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Neural Network](https://img.shields.io/badge/Neural%20Network-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-0E3D59?style=flat&logo=pentaho&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=th-shristi&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false)<br/>

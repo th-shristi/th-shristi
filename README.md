@@ -5,7 +5,7 @@
   <tr>
     <td width="50%">
 
-#📊 Welcome to my world of data and technology!**
+#📊 Welcome to my world of data and technology!
 
 🚀 I'm currently working on:
 - Building and refining machine learning models

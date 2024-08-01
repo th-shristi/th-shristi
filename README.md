@@ -1,4 +1,6 @@
 ![logo](https://i.pinimg.com/564x/a0/e6/d3/a0e6d34297c51272111896a1f4d2becb.jpg)
+
+![Shristi Singh Thakur - Data Analyst](https://img.shields.io/badge/Shristi%20Singh%20Thakur-Data%20Analyst-blue?style=for-the-badge&logo=data:image/png;base64,...)
 <table>
   <tr>
     <td width="50%">

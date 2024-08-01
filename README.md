@@ -82,6 +82,6 @@ As a data nerd, I find joy in the game of data storytelling and love every momen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=th-shristi&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📫 Get in touch
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/shristi-singh-thakur-aa8149239)
-- Twitter: [@YourTwitter](https://x.com/___shristisingh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shristi-singh-thakur-aa8149239/)
+- Twitter: [Twitter](https://x.com/___shristisingh)
 - Email: thakurshristisingh11@gmail.com

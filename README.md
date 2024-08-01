@@ -1,3 +1,4 @@
+<img src="[path_to_your_logo.png](https://i.pinimg.com/564x/49/06/da/4906da4e1952aa5992daa73aeec8e5c0.jpg)" alt="Your Logo" width="100" height="100">
 <table>
   <tr>
     <td width="50%">
